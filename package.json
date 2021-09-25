@@ -1,7 +1,7 @@
 {
-  "name": "@toruslabs/torus.js",
+  "name": "@treasure-chess/torus.js",
   "version": "2.5.0",
-  "description": "Handle communication with torus nodes",
+  "description": "Handle communication with torus nodes. With a backend fork.",
   "main": "dist/torusUtils-node.js",
   "unpkg": "dist/torusUtils.umd.min.js",
   "jsdelivr": "dist/torusUtils.umd.min.js",
